@@ -15,7 +15,7 @@ Um sistema personalizado para a mk outlet, uma loja de artigos masculinos.
 idealizado e desenvolvido por [KAHISS](https://github.com/KAHISS) desde o front-end até o back-end. Utilizando python como linguagem de programação e o SQLite como banco de dados.
 
 #### Bibliotecas
-1. **Interface gráfica:** Tkinter, TKCalendar
+1. **Interface gráfica:** Tkinter, TKCalendar, customtkinter
 2. **Integração com SQLite:** sqlite
 3. **Geração de PDF:** reportlab
 4. **Integração de código de barras:** python-barcode, cairosvg
